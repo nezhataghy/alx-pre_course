@@ -6,3 +6,5 @@ clone command : git clone https://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@githu
 git config --global user.email "nezhataghy@gmail.com"
 
 git config --global user.name "nezhataghy"
+
+ok
